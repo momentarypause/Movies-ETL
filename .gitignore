@@ -1,3 +1,6 @@
+# Ignore large data files
+/Data_Movies_ETL
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
