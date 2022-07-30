@@ -1,3 +1,6 @@
+# Ignore config file
+config.py
+
 # Ignore large data files
 /Data_Movies_ETL
 
